@@ -3,7 +3,9 @@
 
 Study Material 
 
-- [What is AWX  YT from Ansible Pilot ](https://www.youtube.com/watch?v=MsuUb4SrTpk)
+-[What is AWX  YT from Ansible Pilot ](https://www.youtube.com/watch?v=MsuUb4SrTpk)
+
+-[Ansible Home Labs](https://youtu.be/yoFTL0Zm3tw)
 
 K8s / Kubernetes 
 
