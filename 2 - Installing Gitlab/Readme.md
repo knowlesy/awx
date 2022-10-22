@@ -9,3 +9,6 @@ K8s / Kubernetes
 
 -[Gitlab Autoboot](https://stackoverflow.com/questions/27983295/gitlab-autostart-on-boot)
 
+-[Connecting Gitlab to AWX](https://baptiste.bouchereau.pro/tutorial/setup-awx-with-gitlab/)
+
+-[Resolving the self signed cert issue whencreating a project](https://github.com/ansible/awx/issues/490)
