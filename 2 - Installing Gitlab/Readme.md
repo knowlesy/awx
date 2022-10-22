@@ -11,4 +11,4 @@ K8s / Kubernetes
 
 -[Connecting Gitlab to AWX](https://baptiste.bouchereau.pro/tutorial/setup-awx-with-gitlab/)
 
--[Resolving the self signed cert issue whencreating a project](https://github.com/ansible/awx/issues/490)
+-[Resolving the self signed cert issue when creating a project](https://github.com/ansible/awx/issues/490)
